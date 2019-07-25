@@ -12,5 +12,4 @@ public class DemoOfArrays {
 		System.out.println(arr);
 		
 	}
-
 }
